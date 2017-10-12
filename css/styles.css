@@ -1,7 +1,21 @@
-.float-left {
-  float: left;
+.top-right-nav{
+  padding-right: 22px;
+  padding-top: 10px;
+  font-size: 10px;
+  float: right;
 }
 
-.float-right {
-  float:right; 
+.sidebar{
+  float: left;
+  width: 13%;
+  margin-top: 30px;
+  margin-right: 2%;
+  border-right: 1px solid lightblue;
+}
+.col-md-7 {
+  background-color: rgba(44, 130, 90, 0.2);
+}
+
+.green-title {
+  background-color: #1e7e34;
 }
